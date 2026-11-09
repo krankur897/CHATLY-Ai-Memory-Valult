@@ -1,6 +1,6 @@
 # 🚀 CHATLY - AI Memory Vault & Cross-Platform Bridge
 
-> *Bro, I'm telling you—when you're juggling multiple AI tools (ChatGPT, Claude, Gemini) simultaneously for code or research, or worse, when your ChatGPT hits a message limit / context window exhaustion and you're forced to start a fresh chat... the absolute mental torture of having to re-explain the whole backstory, previous errors, and what you've already built over and over again is real! Getting fed up with manually copying, pasting, and spoon-feeding history every single day, I thought, "Enough is enough, I need to build my own fix." And that's how **CHATLY** was born!* 🔥
+> *"Bro, I'm telling you—when you're working with multiple AI tools like ChatGPT, Claude, Gemini, and other AI assistants for coding, research, and projects, one problem keeps hitting hard: context loss. Whether an AI reaches its token limit, a conversation becomes too long, or you simply want to switch to another AI platform, carrying over the entire context becomes a nightmare. Re-explaining your project background, previous errors, decisions, and everything you've already built again and again is exhausting. After getting tired of manually copying, pasting, and spoon-feeding context every single day, I thought, 'Enough is enough. I need a permanent solution.' And that's how **CHATLY** was born!"* 🔥
 
 ---
 
